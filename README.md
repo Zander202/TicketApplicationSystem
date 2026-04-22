@@ -7,14 +7,14 @@
  ***********************************
 - Ticket Application System
 The system allows a user to:
-enter passenger name
-select gender
-enter age
-select travel category
-enter travel distance
-calculate ticket price
-apply discount rules
-display final ticket summary
+-enter passenger name
+-select gender
+-enter age
+-select travel category
+-enter travel distance
+-calculate ticket price
+-apply discount rules
+-display final ticket summary
 ************************************
 
 ## How to Run
